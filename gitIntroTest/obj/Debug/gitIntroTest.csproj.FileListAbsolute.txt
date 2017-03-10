@@ -1,0 +1,6 @@
+c:\users\steve\documents\visual studio 2017\Projects\gitIntroTest\gitIntroTest\bin\Debug\gitIntroTest.exe.config
+c:\users\steve\documents\visual studio 2017\Projects\gitIntroTest\gitIntroTest\bin\Debug\gitIntroTest.exe
+c:\users\steve\documents\visual studio 2017\Projects\gitIntroTest\gitIntroTest\bin\Debug\gitIntroTest.pdb
+c:\users\steve\documents\visual studio 2017\Projects\gitIntroTest\gitIntroTest\obj\Debug\gitIntroTest.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2017\Projects\gitIntroTest\gitIntroTest\obj\Debug\gitIntroTest.exe
+c:\users\steve\documents\visual studio 2017\Projects\gitIntroTest\gitIntroTest\obj\Debug\gitIntroTest.pdb
