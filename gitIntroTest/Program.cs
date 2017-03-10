@@ -8,12 +8,13 @@ namespace gitIntroTest
 {
     class Program
     {
-        private const string VERSION = "1.0";
+        private const string VERSION = "1.1";
 
         static void Main(string[] args)
         {
             showVersion();
             Console.WriteLine("Very first bit of code");
+            Console.WriteLine("My second bit of code");
 
             Console.Read();
         }
