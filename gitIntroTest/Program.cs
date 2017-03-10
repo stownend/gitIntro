@@ -24,7 +24,7 @@ namespace gitIntroTest
 
         private static void showVersion()
         {
-            Console.WriteLine("Version : " + VERSION + " at " + DateTime.Now.ToString("yyyy-mm-dd hh:mm:ss"));
+            Console.WriteLine("Version : " + VERSION + " at " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
         }
     }
 }
