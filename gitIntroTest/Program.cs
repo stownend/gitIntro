@@ -15,6 +15,7 @@ namespace gitIntroTest
             showVersion();
             Console.WriteLine("Very first bit of code");
             Console.WriteLine("My second bit of code");
+
             Console.WriteLine("My third bit of code");
 
             Console.Read();
